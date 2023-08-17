@@ -3,9 +3,7 @@ import { useState } from 'react';
 import { Stack, useRouter } from 'expo-router';
 
 const Home = () => {
-    <View>
-        <Text>Home</Text>
-    </View>
+ 
 }
 
 export default Home;
